@@ -1,0 +1,14 @@
+{
+  "version": "V4",
+  "project": "METAL ARENA",
+  "saved_from": "uploaded 6-file GitHub/Railway build",
+  "files": [
+    "index.html",
+    ".gitignore",
+    "package.json",
+    "server.js",
+    "railway.json",
+    "README.md"
+  ],
+  "note": "V4 saved as the base after recent fixes, with bounce/subskok removed."
+}
